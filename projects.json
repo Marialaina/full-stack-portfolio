@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Trivia",
+      "live": "https://marialaina.github.io/triviaGame.github.io/",
+      "git": "https://github.com/Marialaina/triviaGame.github.io",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "project2",
+      "live": "https://git.heroku.com/favoritefood.git",
+      "git": "https://github.com/Marialaina/favoritefood",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
